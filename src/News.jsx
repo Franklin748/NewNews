@@ -12,7 +12,42 @@ export default function News() {
             <img className='imagem1' src={imagem1} alt="test" />
             <img className='imagem2' src={imagem2} alt="test" />
             <img className='imagem3' src={imagem3} alt="test" />
-
+            </div>
+            <h1>Economia</h1>
+            <div>
+            <img className='imagem1' src={imagem1} alt="test" />
+            <img className='imagem2' src={imagem2} alt="test" />
+            <img className='imagem3' src={imagem3} alt="test" />
+            </div>
+            <h1>Mundo</h1>
+            <div>
+            <img className='imagem1' src={imagem1} alt="test" />
+            <img className='imagem2' src={imagem2} alt="test" />
+            <img className='imagem3' src={imagem3} alt="test" />
+            </div>
+            <h1>Esportes</h1>
+            <div>
+            <img className='imagem1' src={imagem1} alt="test" />
+            <img className='imagem2' src={imagem2} alt="test" />
+            <img className='imagem3' src={imagem3} alt="test" />
+            </div>
+            <h1>Politica</h1>
+            <div>
+            <img className='imagem1' src={imagem1} alt="test" />
+            <img className='imagem2' src={imagem2} alt="test" />
+            <img className='imagem3' src={imagem3} alt="test" />
+            </div>
+            <h1>Cultura</h1>
+            <div>
+            <img className='imagem1' src={imagem1} alt="test" />
+            <img className='imagem2' src={imagem2} alt="test" />
+            <img className='imagem3' src={imagem3} alt="test" />
+            </div>
+            <h1>Video</h1>
+            <div>
+            <img className='imagem1' src={imagem1} alt="test" />
+            <img className='imagem2' src={imagem2} alt="test" />
+            <img className='imagem3' src={imagem3} alt="test" />
             </div>
         </div>
     );
